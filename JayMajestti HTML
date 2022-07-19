@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+h1 {color: white;font-family: verdana;}
+p {font-size:44px; color: white;}
+body {background:grey;}
+</style>
+</head>
+<body>
+ <h1><b><i><u>The lion king</u></i></b></h1>
+  <br> 
+  <p>This is the story of Simba an African young lion</p>
+</body>
+</html>
+  
